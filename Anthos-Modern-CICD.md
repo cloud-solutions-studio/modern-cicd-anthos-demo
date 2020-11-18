@@ -144,7 +144,7 @@ Click **Next** when finished to continue.
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
-You've successfully completed the deployment setup for the "Modern CICD with Anthos" demo. Please navigate to slide 2 of the slide deck located [here](https://docs.google.com/presentation/d/1p4jyKluC1oCcQ1HvwLOjhpKkckQ4CKD6rXxIyXJXDhg/edit#slide=id.g7f25a49472_0_7).
+You've successfully completed the deployment setup for the "Modern CICD with Anthos" demo. Please navigate to slide 2 of the slide deck located [here](https://docs.google.com/presentation/d/1FXk9IIQjHro-oPA8cAqo2pr6F8M8wYMx_FUwwjMowSw/edit?ts=5ec41f3e#slide=id.g7f25a49472_0_7).
 
 
 For more detailed instructions on how a customer would interact with this Modern CI/CD infrastructure (onboarding a new application, adding a new cluster, developer workflow, etc.) please see the [User Guide](https://github.com/GoogleCloudPlatform/solutions-modern-cicd-anthos/blob/master/docs/index.md).
