@@ -4,7 +4,7 @@
 
 **Please ensure you create and select a new project in the next step to ensure this tutorial functions properly**
 
-You should deploy the new project within the "gcct-team" folder in the Google.com org to avoid issues.
+Googlers: You should deploy the new project within the "untrusted/experimental-untrusted/experimental-gke" folder in the "google.com" org to avoid issues. You may need to accept the T&C [here](http://go/experimental-folder-access) to be granted access to this folder.
 
 Click Start to Begin
 
