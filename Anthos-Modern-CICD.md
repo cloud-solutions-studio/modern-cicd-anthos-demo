@@ -98,10 +98,10 @@ gcloud builds submit --substitutions=_PROJECT_ID=${PROJECT_ID}
 
 Cloud Build job output:
 ```
-Log in to your GitLab instance at: https://gitlab.{{project-id}}.demo.anthos-platform.dev
-Step #4 - "setup-gitlab": + echo -e '\e[32mUsername: root'
-Step #4 - "setup-gitlab": Username: root
-Step #4 - "setup-gitlab": + echo -e '\e[32mPassword: YOURPASSWORD
+Step #8 - "output-connect-details":  Log in to your GitLab instance at: https://gitlab.endpoints.{{project-id}}.cloud.goog
+Step #8 - "output-connect-details":  Username: root
+Step #8 - "output-connect-details":  To retrieve password run: $(gcloud secrets versions access latest --secret=gitlab-password)
+Step #8 - "output-connect-details":  Visit the user guide in the docs (docs/index.md) to go through a user journey (add, deploy, and change applications).
 ```
 
 
