@@ -4,7 +4,7 @@
 
 **Please ensure you create and select a new project in the next step to ensure this tutorial functions properly.**
 
-*Googlers Only: You should deploy the new project within the "untrusted/experimental-untrusted/experimental-gke" folder in the "google.com" org to avoid issues. You may need to accept the T&C [here](http://go/experimental-folder-access) to be granted access to this folder.*
+*Googlers Only: You may have difficulty deploying this demo in the "google.com" organization due to strict Organization Policies. It is highly reccommended to deploy this demo in a self-managed GCP organization.*
 
 Click **Start** to begin.
 
