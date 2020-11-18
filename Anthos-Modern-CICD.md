@@ -129,13 +129,13 @@ Click **Next** when finished to continue.
 
 For this demo, the Anthos platform consists of **5 GKE clusters**: 
 
-* **Two production clusters**, prod-us-central1 in us-central1 region and prod-us-east1 in us-east1 region.
+* **Two production clusters**, "prod-us-central1" in us-central1 region and "prod-us-east1" in us-east1 region.
 
-* **One staging cluster**, staging-us-central1 staging cluster in us-central1 region.
+* **One staging cluster**, "staging-us-west2" in us-west2 region.
 
-* **One dev cluster**, dev-us-central1 dev cluster in us-central1
+* **One dev cluster**, "dev-us-west1" in us-west1 region.
 
-* **One cluster dedicated to GitLab (self-managed)**
+* **One cluster dedicated to GitLab (self-managed).**
 
 
 Click **Next** when finished to continue.
