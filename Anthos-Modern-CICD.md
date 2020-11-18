@@ -4,7 +4,7 @@
 
 **Please ensure you create and select a new project in the next step to ensure this tutorial functions properly.**
 
-*Googlers Only: You may have difficulty deploying this demo in the "google.com" organization due to strict Organization Policies. It is highly reccommended to deploy this demo in a self-managed GCP organization.*
+*Googlers Only: You may have difficulty deploying this demo in the "google.com" organization due to strict Organization Policies. It is highly recommended to deploy this demo in a self-managed GCP organization.*
 
 Click **Start** to begin.
 
