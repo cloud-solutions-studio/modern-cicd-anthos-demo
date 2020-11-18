@@ -6,7 +6,7 @@
 
 *Googlers Only: You should deploy the new project within the "untrusted/experimental-untrusted/experimental-gke" folder in the "google.com" org to avoid issues. You may need to accept the T&C [here](http://go/experimental-folder-access) to be granted access to this folder.*
 
-Click **Start** to Begin.
+Click **Start** to begin.
 
 ## Project Selection
 <walkthrough-project-billing-setup></walkthrough-project-billing-setup>
@@ -63,8 +63,10 @@ export PROJECT_NUMBER=$(gcloud projects describe ${PROJECT_ID} --format 'value(p
 gcloud services enable cloudbuild.googleapis.com
 gcloud services enable anthos.googleapis.com
 gcloud services enable serviceusage.googleapis.com
+gcloud services enable binaryauthorization.googleapis.com
 gcloud services enable cloudkms.googleapis.com
 gcloud services enable containeranalysis.googleapis.com
+gcloud services enable secretmanager.googleapis.com
 ```
 
 
